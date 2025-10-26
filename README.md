@@ -37,4 +37,5 @@ It effectively transforms raw retail data into actionable business insights for 
 
 ## 👤 Author
 *Vedant P. Darevkar*  
+darvekarvedantgmail.com
 🔗 [GitHub Repository](https://github.com/justvedanttt/Sales-Performance-Analysis.git)
